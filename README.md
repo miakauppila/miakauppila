@@ -1,6 +1,7 @@
-### Hello 👋, I'm Mia. I'm a junior web developer based in Helsinki (Finland). Welcome to my Github page!
+### Hello 👋, I'm Mia. I'm a junior web developer based in Helsinki (Finland). <br>
+Welcome to my Github page!
 
-- 💻 I was told that one can only learn to code by coding... So I decided to do.
+- 💻 I was told that one can only learn to code by coding... So I decided to do so.
 - 🔭 I’m currently working as a Developer Trainee.
 - 🌱 I’m learning more React JS.
 - 🤔 I’m looking for an entry level position in the field of IT.
@@ -8,7 +9,7 @@
 - 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](mailto:mia.kauppila@gmail.com)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/miakauppila)
-- 😄 I am a good listener, who asks a lot of questions.
+- 😄 I’m a good listener, who asks a lot of questions.
 - ⚡ Fun fact: I also speak Spanish since I lived in Madrid for many years. 
 
 <!--
