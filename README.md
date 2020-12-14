@@ -6,7 +6,7 @@
 - 🤔 I’m looking for an entry level position in the field of IT.
 - 💬 Ask me to collobarate on your project.
 - 📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](mia.kauppila@gmail.com)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](mailto:mia.kauppila@gmail.com)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/miakauppila)
 - 😄 I am a good listener, who asks a lot of questions.
 - ⚡ Fun fact: I also speak Spanish since I lived in Madrid for many years. 
