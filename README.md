@@ -2,7 +2,7 @@
 Welcome to my Github page!
 
 - 💻 I was told that one can only learn to code by coding... So I decided to do so.
-- 🔭 I’m currently learning fullstack ReactJS SPAs, build with Node.js.
+- 🔭 I’m currently learning fullstack ReactJS SPAs, built with Node.js.
 - 🤔 I’m looking for an entry-level position in the field of IT.
 - 💬 Ask me to collobarate on your project.
 - 📫 How to reach me: <br>
