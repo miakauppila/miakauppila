@@ -1,13 +1,12 @@
-## Hello 👋, I'm Mia. I'm a junior developer based in Helsinki (Finland). <br>
+## Hello 👋, I'm Mia. I'm a happy developer based in Helsinki (Finland). <br>
 Welcome to my Github page!
 
 - 💻 I was told that one can only learn to code by coding... So I decided to do so.
-- 🔭 I’m currently learning fullstack React SPAs, built with Node.js.
+- 🔭 I’m currently learning fullstack React SPAs, built with Node.js or Java Spring Boot.
 - 🤔 I’m looking for possibilities to collaborate.
-- 📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](mailto:mia.kauppila@gmail.com)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/miakauppila)
 - 😄 She/her is a good listener, who asks a lot of questions.
+- How to reach me: <br>
+[![Linkedin Badge](https://img.shields.io/badge/-miakauppila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miakauppila/)](https://www.linkedin.com/in/miakauppila/) 
 - ⚡ Fun fact: I also speak Spanish since I lived in Madrid for many years.
 
 ## Stats
